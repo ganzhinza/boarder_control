@@ -18,6 +18,8 @@ func main() {
 		fmt.Println("Mido gbe na xexeame!")
 	case "ch":
 		fmt.Println("你好世界！")
+	case "kr":
+		fmt.Println("안녕하세요!")
 	}
 
 }
