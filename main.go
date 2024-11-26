@@ -20,13 +20,10 @@ func main() {
 		fmt.Println("你好世界！")
 	case "kr":
 		fmt.Println("안녕하세요!")
-<<<<<<< HEAD
 	case "gr":
 		fmt.Println("Hallo Welt!")
-=======
 	case "es":
 		fmt.Println("Saluton mondo!")
->>>>>>> artificial_langs
 	}
 
 }
