@@ -12,6 +12,8 @@ func main() {
 		fmt.Println("Привет, мир!")
 	case "fr":
 		fmt.Println("Bonjour le monde!")
+	case "ki":
+		fmt.Println("Haro ensi yoona!!")
 	}
 
 }
