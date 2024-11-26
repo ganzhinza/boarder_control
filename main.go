@@ -14,6 +14,8 @@ func main() {
 		fmt.Println("Bonjour le monde!")
 	case "ki":
 		fmt.Println("Haro ensi yoona!!")
+	case "ewe":
+		fmt.Println("Mido gbe na xexeame!")
 	}
 
 }
